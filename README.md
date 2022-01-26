@@ -1,1 +1,1 @@
-# Stock_Price_Prediction
+# Stock_Price_Prediction_Using_Regression.
